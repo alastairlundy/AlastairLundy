@@ -13,7 +13,7 @@ These are just the projects I am publicly working on. Some private projects are 
 | CommandLineArgsParser | C# | In Development |
 | PlatformKit.Hardware | C# | In Development - Back Burner / Awaiting PlatformKit 4 Stability |
 | xBKU | Dart & Flutter | In Development - Back Burner |
-| InstallWith | Java | In Development - Back Burner |
+| InstallWith | Dart | In Development - Back Burner |
 
 ### Stable Projects
 
@@ -22,5 +22,10 @@ These are just the projects I am publicly working on. Some private projects are 
 | PlatormKit | C# | Stable and In Development | Stable with Recent Releases |
 | SettingsKit | C# | Stable with Breaking Changes in future versions | Stable with Recent Pre-releases |
 | LocalizationKit | C# | Stable with Breaking Changes in future versions | Stable with Recent Pre-releases |
-| PasswordKit | C# | Stable. End Of Life | Stable - Repo has been Archived |
-| SecureRNGKit | C# | Stable. End Of Life (for now) | Stable - Repo has been Archived |
+
+### End Of Life/Archived Projects
+
+| Project Name | Project Languages |
+|-|-|
+| PasswordKit | C# |
+| SecureRNGKit | C# |
