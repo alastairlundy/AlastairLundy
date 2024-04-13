@@ -3,6 +3,10 @@
 ## Why the lack of GitHub contributions from before Mid 2023?
 I decided to switch to GitLab from GitHub a few years ago, though I have since come back to GitHub and intend to mainly use GitHub going forward.
 
+## Shared Policies across my projects
+* [Security Policy](https://github.com/alastairlundy/AlastairLundy/blob/main/SECURITY.md)
+* [Contribution Policy](https://github.com/alastairlundy/AlastairLundy/blob/main/CONTRIBUTING.md)
+
 ## Project States/Status
 These are just the projects I am publicly working on. Some private projects are not listed.
 
