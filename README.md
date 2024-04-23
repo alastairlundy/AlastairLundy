@@ -17,7 +17,7 @@ These are just the projects I am publicly working on. Some private projects are 
 | CommandLineArgsParser | C# | In Development |
 | PlatformKit.Hardware | C# | In Development - Back Burner / Awaiting PlatformKit 4 Stability |
 | xBKU | Dart & Flutter | In Development - Back Burner |
-| InstallWith | Dart | In Development - Back Burner |
+| InstallWith | C# | In Development - Back Burner |
 
 ### Stable Projects
 
