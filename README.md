@@ -7,27 +7,20 @@ I decided to switch to GitLab from GitHub a few years ago, though I have since c
 * [Security Policy](https://github.com/alastairlundy/AlastairLundy/blob/main/SECURITY.md)
 * [Contribution Policy](https://github.com/alastairlundy/AlastairLundy/blob/main/CONTRIBUTING.md)
 
-## Project States/Status
+## Public Projects
 These are just the projects I am publicly working on. Some private projects are not listed.
 
-### Work In Progress Projects
-| Project Name | Project Languages | Release/Stability State |
-|-|-|-|
-| stdlibts | Typescript | Pre-release  |
-| PlatformKit.Hardware | C# |  In Development - Back Burner / Awaiting PlatformKit 4 Stability |
-| xBKU | Dart & Flutter | In Development - Back Burner |
+### Desktop Applications
 
-### Stable Projects
-
-| Project Name | Project Languages | Status | Release/Stability State |
+### CLI Applications
+| Project Name | Project Languages | What it does | 
 |-|-|-|-|
-| PlatormKit | C# | Stable and In Development | Stable with Recent Releases |
-| SettingsKit | C# | Stable | Stable with Recent Pre-releases |
-| LocalizationKit | C# | Stable | Stable with Recent Pre-releases |
 
-### End Of Life/Archived Projects
 
-| Project Name | Project Languages |
-|-|-|
-| PasswordKit | C# |
-| SecureRNGKit | C# |
+### Libraries
+| Project Name | Project Languages | What it does | 
+|-|-|-|-|
+| PlatformKit.Extensions.OperatingSystem | C# | Extends the ``OperatingSystem`` class to make it easier to handle cross-platform code on .NET Standard 2 compatible projects |
+| [PlatormKit](https://github.com/alastairlundy/PlatformKit) | C# | Helps with handling Cross-platform code and detecting Platform specific things. |
+| [SettingsKit](https://github.com/alastairlundy/SettingsKit) | C# | Makes it easy to read or write __Settings__ files for applications that store settings in JSON, TXT, or XML. |
+| [LocalizationKit](https://github.com/alastairlundy/LocalizationKit) | C# | Makes it easy to read or write __Localization__ files for applications that store settings in JSON, TXT, or XML. |
