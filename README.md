@@ -14,7 +14,6 @@ These are just the projects I am publicly working on. Some private projects are 
 | Project Name | Project Languages | Release/Stability State |
 |-|-|-|
 | stdlibts | Typescript | Pre-release  |
-| CommandLineArgsParser | C# |  In Development - Back Burner |
 | PlatformKit.Hardware | C# |  In Development - Back Burner / Awaiting PlatformKit 4 Stability |
 | xBKU | Dart & Flutter | In Development - Back Burner |
 | InstallWith | Dart | In Development - Back Burner |
@@ -24,8 +23,8 @@ These are just the projects I am publicly working on. Some private projects are 
 | Project Name | Project Languages | Status | Release/Stability State |
 |-|-|-|-|
 | PlatormKit | C# | Stable and In Development | Stable with Recent Releases |
-| SettingsKit | C# | Stable with Breaking Changes in future versions | Stable with Recent Pre-releases |
-| LocalizationKit | C# | Stable with Breaking Changes in future versions | Stable with Recent Pre-releases |
+| SettingsKit | C# | Stable | Stable with Recent Pre-releases |
+| LocalizationKit | C# | Stable | Stable with Recent Pre-releases |
 
 ### End Of Life/Archived Projects
 
