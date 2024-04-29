@@ -16,7 +16,6 @@ These are just the projects I am publicly working on. Some private projects are 
 | stdlibts | Typescript | Pre-release  |
 | PlatformKit.Hardware | C# |  In Development - Back Burner / Awaiting PlatformKit 4 Stability |
 | xBKU | Dart & Flutter | In Development - Back Burner |
-| InstallWith | Dart | In Development - Back Burner |
 
 ### Stable Projects
 
