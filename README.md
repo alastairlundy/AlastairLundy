@@ -20,7 +20,7 @@ These are just the projects I am publicly working on. Some private projects are 
 ### Libraries
 | Project Name | Project Languages | What it does | 
 |-|-|-|
-| PlatformKit.Extensions.OperatingSystem | C# | Extends the ``OperatingSystem`` class to make it easier to handle cross-platform code on .NET Standard 2 compatible projects |
+| [PlatformKit.Extensions.OperatingSystem](https://github.com/PlatformKitLibrary/PlatformKit.Extensions.OperatingSystem) | C# | Extends the ``OperatingSystem`` class to make it easier to handle cross-platform code on .NET Standard 2 compatible projects |
 | [PlatormKit](https://github.com/alastairlundy/PlatformKit) | C# | Helps with handling Cross-platform code and detecting Platform specific things. |
 | [SettingsKit](https://github.com/alastairlundy/SettingsKit) | C# | Makes it easy to read or write __Settings__ files for applications that store settings in JSON, TXT, or XML. |
 | [LocalizationKit](https://github.com/alastairlundy/LocalizationKit) | C# | Makes it easy to read or write __Localization__ files for applications that store settings in JSON, TXT, or XML. |
