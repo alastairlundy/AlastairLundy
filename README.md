@@ -13,6 +13,8 @@ These are just the projects I am publicly working on. Some private projects are 
 ### Desktop Applications
 
 ### CLI Applications
+For my util programs pleasee see [this](https://github.com/alastairlundy/utils)
+
 | Project Name | Project Languages | What it does | 
 |-|-|-|
 
