@@ -20,6 +20,7 @@ These are just the projects I am publicly working on. Some private projects are 
 ### Libraries
 | Project Name | Project Languages | Target Framework Version | What it does | 
 |-|-|-|-|
+| [Cli Utils Lib](https://github.com/alastairlundy/CliUtilsLib) | C# | .NET 8 | A library to help with the creation of CLI tools and/or console applications.|
 | [PlatformKit.Software](https://github.com/PlatformKitLibrary/PlatformKit.Software) | C# | .NET 6 & .NET 8| Helps with getting Installed Apps and Supported Package Managers.|  
 | [PlatformKit.Extensions.OperatingSystem](https://github.com/PlatformKitLibrary/PlatformKit.Extensions.OperatingSystem) | C# | .NET Standard 2.0 | Extends the ``OperatingSystem`` class to make it easier to handle cross-platform code on .NET Standard 2 compatible projects |
 | [PlatormKit](https://github.com/alastairlundy/PlatformKit) | C# | .NET Standard 2.0 & .NET 6 and newer | Helps with handling Cross-platform code and detecting Platform specific things. |
