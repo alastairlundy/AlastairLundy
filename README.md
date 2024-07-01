@@ -13,12 +13,10 @@ These are just the projects I am publicly working on. Some private projects are 
 ### Desktop Applications
 
 ### CLI Applications
-For my util programs pleasee see [this](https://github.com/alastairlundy/utils)
-
 | Project Name | Project Languages | Target Framework Version | What it does | 
 |-|-|-|-|
-| BasisBox | C# |.NET 8 | A group of alternatives to GNU coreutil programs |
-| EnviousBox | C# | .NET 8 | A group of my CLI tools | 
+| [BasisBox](https://github.com/alastairlundy/BasisBox/) | C# |.NET 8 | A group of alternatives to GNU coreutil programs |
+| [EnviousBox](https://github.com/alastairlundy/EnviousBox/) | C# | .NET 8 | A group of my CLI tools | 
 
 ### Libraries
 | Project Name | Project Languages | Target Framework Version | What it does | 
