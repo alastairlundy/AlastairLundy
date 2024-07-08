@@ -24,10 +24,3 @@ A Security Vulnerability affecting one of my projects should not be publicly dis
 3. The updated version of the project has been distributed and made available to all platforms supported for at least 24 hours at the time of the vulnerability being discovered.
 4. At least 24 hours has passed since the updated version of the project has been distributed.
 5. The affected versions of the project have been de-listed or marked as containing a security vulnerability.
-
-By Public Disclosure I mean:
-* Disclosure in a publicly accessible or publicly visible form
-* Discussion with people outside of your immediate colleagues or team
-* Leaking or anonymously communicating the details of the vulnerability to other
-
-
