@@ -8,18 +8,21 @@ I decided to switch to GitLab from GitHub a few years ago, though I have since c
 * [Contribution Policy](https://github.com/alastairlundy/AlastairLundy/blob/main/CONTRIBUTING.md)
 
 ## Public Projects
-These are just the projects I am publicly working on. Some private projects are not listed.
+These are just some of the projects I am publicly working on. Some private projects are not listed.
 
 ### Desktop Applications
+| Project Name | Project Language(s) | GUI Framework | Target Framework Version | What it does | 
+|-|-|-|-|-|
+| | | | | |
 
 ### CLI Applications
-| Project Name | Project Languages | Target Framework Version | What it does | 
+| Project Name | Project Language(s) | Target Framework Version | What it does | 
 |-|-|-|-|
 | [BasisBox](https://github.com/alastairlundy/BasisBox/) | C# |.NET 8 | A group of alternatives to GNU coreutil programs |
 | [EnviousBox](https://github.com/alastairlundy/EnviousBox/) | C# | .NET 8 | A group of my CLI tools | 
 
 ### Libraries
-| Project Name | Project Languages | Target Framework Version | What it does | 
+| Project Name | Project Language(s) | Target Framework Version | What it does | 
 |-|-|-|-|
 | [Cli Utils Lib](https://github.com/alastairlundy/CliUtilsLib) | C# | .NET 8 | A library to help with the creation of CLI tools and/or console applications.|
 | [PlatformKit.Software](https://github.com/PlatformKitLibrary/PlatformKit.Software) | C# | .NET 8| Helps with getting Installed Apps and Supported Package Managers.|  
