@@ -10,6 +10,11 @@ I decided to switch to GitLab from GitHub a few years ago, though I have since c
 ## Public Projects
 These are just some of the projects I am publicly working on. Some private projects are not listed.
 
+### Web Applications
+| Project Name | Project Language(s) | Project Type | Target Framework Version | What it does | 
+|-|-|-|-|-|
+| | | | | |
+
 ### Desktop Applications
 | Project Name | Project Language(s) | GUI Framework | Target Framework Version | What it does | 
 |-|-|-|-|-|
