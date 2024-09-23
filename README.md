@@ -18,7 +18,7 @@ These are just some of the projects I am publicly working on. Some private proje
 ### CLI Applications
 | Project Name | Project Language(s) | Target Framework Version | What it does | 
 |-|-|-|-|
-| [BasisBox](https://github.com/alastairlundy/BasisBox/) | C# |.NET 8 | A group of alternatives to GNU coreutil programs |
+| [BasisBox](https://github.com/BasisBox/) | C# |.NET 8 | A group of alternatives to GNU coreutil programs |
 | [EnviousBox](https://github.com/alastairlundy/EnviousBox/) | C# | .NET 8 | A group of my CLI tools | 
 
 ### Libraries
