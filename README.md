@@ -23,7 +23,7 @@ These are just some of the projects I am publicly working on. Some private proje
 ### CLI Applications
 | Project Name | Project Language(s) | Project License | Target Framework Version | What it does | 
 |-|-|-|-|-|
-| [BasisBox](https://github.com/BasisBox/) | C# | LGPLv3 |.NET 8 | A group of alternatives to GNU coreutil programs |
+| [BasisBox](https://github.com/alastairlundy/BasisBox/) | C# | LGPLv3 |.NET 8 | A group of alternatives to GNU coreutil programs |
 | [EnviousBox](https://github.com/EnviousBox) | C# | LGPLv3 | .NET 8 | A group of my CLI tools | 
 | [Signature](https://github.com/alastairlundy/Signature) | C# | LGPLv3 | .NET 8 | |
 
