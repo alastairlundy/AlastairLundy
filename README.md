@@ -30,7 +30,7 @@ These are just some of the projects I am publicly working on. Some private proje
 | Project Name | Project Language(s) | Project License |Target Framework Version | What it does | 
 |-|-|-|-|-|
 | [CliRunner](https://github.com/alastairlundy/CliRunner) | C# | LGPLv3 | .NET Standard 2.1 & .NET 8 | A Work In Progress library for interacting with Command Line Interfaces. |
-| [Cli Utils Lib](https://github.com/alastairlundy/CliUtilsLib) | C# | Apache 2.0 | .NET 8 | A library to help with the creation of CLI tools and/or console applications.|
+| [Cli Utils Lib](https://github.com/alastairlundy/CliUtilsLib) | C# | LGPLv3 | .NET 8 | A library to help with the creation of CLI tools and/or console applications.|
 | [SettingsKit](https://github.com/alastairlundy/SettingsKit) | C# | MIT | .NET Standard 2.0 & .NET 6 and newer | Makes it easy to read or write __Settings__ files for applications that store settings in JSON, TXT, or XML. |
 | [LocalizationKit](https://github.com/alastairlundy/LocalizationKit) | C# | MIT | .NET Standard 2.0 & .NET 6 and newer | Makes it easy to read or write __Localization__ files for applications that store settings in JSON, TXT, or XML. |
 
