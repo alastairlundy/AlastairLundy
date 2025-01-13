@@ -42,7 +42,7 @@ These are just some of the projects I am publicly working on. Some private proje
 #### Extension Libraries
 | Project Name | Project Language(s) | Project License |Target Framework Version | What it does | 
 |-|-|-|-|-|
-| [RuntimeExtensions (formerly PlatformKit.Extensions.OperatingSystem)](https://github.com/PlatformKitLibrary/PlatformKit.Extensions.OperatingSystem) | C# | MIT | .NET Standard 2.0 | Extends the ``OperatingSystem`` class to make it easier to handle cross-platform code on .NET Standard 2 compatible projects |
+| [OSCompatibilityLib (formerly RuntimeExtensions)](https://github.com/alastairlundy/OSCompatibilityLib) | C# | MIT | .NET Standard 2.0 | Extends the ``OperatingSystem`` class to make it easier to handle cross-platform code on .NET Standard 2 compatible projects |
 | [CollectionsExtensions](https://github.com/alastairlundy/CollectionsExtensions) | C# | MIT | .NET Standard 2.0 & .NET 8 | Extensions to C# IEnumerables, ICollections, and more to improve them. | 
 | [SystemExtensions](https://github.com/alastairlundy/CollectionsExtensions) | C# | MIT | .NET Standard 2.0 & .NET 8 | Extensions to C# System classes and types to improve them. | 
 | [IOExtensions](https://github.com/alastairlundy/IOExtensions) | C# | MPL 2.0 | .NET Standard 2.0, .NET Standard 2.1, and .NET 8 | A library to make programmatic directory deletion and creation in .NET easier. | 
