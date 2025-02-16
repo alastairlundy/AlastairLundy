@@ -31,7 +31,7 @@ These are just some of the projects I am publicly working on. Some private proje
 |-|-|-|-|-|
 | [CliRunner](https://github.com/alastairlundy/CliRunner) | C# | MPL 2.0 | .NET Standard 2.0, .NET Standard 2.1, .NET 8, & .NET 9 | A Work In Progress library for interacting with Command Line Interfaces. |
 | [Cli Utils Lib](https://github.com/alastairlundy/CliUtilsLib) | C# | MPL 2.0 | .NET 8 | A library to help with the creation of CLI tools and/or console applications.|
-| [OSCompatibilityLib (formerly RuntimeExtensions)](https://github.com/alastairlundy/OSCompatibilityLib) | C# | MIT | .NET Standard 2.0 | Extends the ``OperatingSystem`` class to make it easier to handle cross-platform code on .NET Standard 2 compatible projects |
+| [OSCompatibilityLib](https://github.com/alastairlundy/OSCompatibilityLib) | C# | MIT | .NET Standard 2.0 | Extends the ``OperatingSystem`` class to make it easier to handle cross-platform code on .NET Standard 2 compatible projects |
 | [PlatformKit](https://github.com/alastairlundy/PlatformKit) | C# | MIT | .NET Standard 2.0 & .NET 6 and newer | Helps with handling Cross-platform code and detecting Platform specific things. |
 
 #### Extension Libraries
