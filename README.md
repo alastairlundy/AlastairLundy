@@ -37,6 +37,7 @@ These are just some of the projects I am publicly working on. Some private proje
 #### Extension Libraries
 | Project Name | Project Language(s) | Project License |Target Framework Version | What it does | 
 |-|-|-|-|-|
-| [SystemExtensions](https://github.com/alastairlundy/SystemExtensions) | C# | MIT | .NET Standard 2.0 & .NET 8+ | Extensions to C# System classes and types to improve them. | 
-| [CollectionsExtensions](https://github.com/alastairlundy/CollectionsExtensions) | C# | MIT | .NET Standard 2.0 & .NET 8+ | Extensions to C# IEnumerables, ICollections, and more to improve them. | 
-| [IOExtensions](https://github.com/alastairlundy/IOExtensions) | C# | MPL 2.0 | .NET Standard 2.0, .NET Standard 2.1, and .NET 8 | A library to make programmatic directory deletion and creation in .NET easier. | 
+| [ProcessExtensions](https://github.com/alastairlundy/Extensions.Processes) | C# | MPl 2.0 | .NET Standard 2.0 & .NET 8+ | Abstractions around Processes and Process running to make it easier and safer. | 
+| [SystemExtensions](https://github.com/alastairlundy/Extensions.System) | C# | MIT | .NET Standard 2.0 & .NET 8+ | Extensions to C# System classes and types to improve them. | 
+| [CollectionsExtensions](https://github.com/alastairlundy/Extensions.Collections) | C# | MIT | .NET Standard 2.0 & .NET 8+ | Extensions to C# IEnumerables, ICollections, and more to improve them. | 
+| [IOExtensions](https://github.com/alastairlundy/Extensions.IO) | C# | MPL 2.0 | .NET Standard 2.0, .NET Standard 2.1, and .NET 8 | A library to make programmatic directory deletion and creation in .NET easier. | 
