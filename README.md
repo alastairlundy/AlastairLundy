@@ -13,12 +13,12 @@ These are just some of the projects I am publicly working on. Some private proje
 ### Web Applications
 | Project Name | Project Language(s) and Web Framework | Project License | Target Framework Version | What it does | 
 |-|-|-|-|-|
-| WCount | C#, Blazor Web Assembly | | .NET 9 | |
+| | | | | |
 
 ### Desktop Applications
 | Project Name | Project Language(s) | Project License | GUI Framework | Target Framework Version | What it does | 
 |-|-|-|-|-|-|
-| | | | | |
+| [WCount Desktop](https://github.com/alastairlundy/wcount) | C# , XAML | MPL 2.0 | Avalonia | .NET 9.0 | |
 
 ### CLI Applications
 | Project Name | Project Language(s) | Project License | Target Framework Version | What it does | 
