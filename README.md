@@ -31,6 +31,8 @@ These are just some of the projects I am publicly working on. Some private proje
 |-|-|-|-|-|
 | [CliInvoke](https://github.com/alastairlundy/CliInvoke) | C# | MPL 2.0 | .NET Standard 2.0, .NET Standard 2.1, .NET 8, & .NET 9 | A library for interacting with Command Line Interfaces. |
 | [Cli Utils Lib](https://github.com/alastairlundy/CliUtilsLib) | C# | MPL 2.0 | .NET 8 | A library to help with the creation of CLI tools and/or console applications.|
+| [DotExtensions](https://github.com/alastairlundy/DotExtensions) | C# | MIT | .NET Standard 2.0 & .NET 8+ | Extensions to C# System classes and types to improve them. | 
+| [Resyslib](https://github.com/alastairlundy/Resyslib) | C# | MIT | .NET Standard 2.0 & .NET 8+ | This is a collection of primitive packages for .NET focussed on different areas. | 
 | [OSCompatibilityLib](https://github.com/alastairlundy/OSCompatibilityLib) | C# | MIT | .NET Standard 2.0 | Extends the ``OperatingSystem`` class to make it easier to handle cross-platform code on .NET Standard 2 compatible projects |
 | [PlatformKit](https://github.com/alastairlundy/PlatformKit) | C# | MIT | .NET Standard 2.0 & .NET 6 and newer | Helps with handling Cross-platform code and detecting Platform specific things. |
 
@@ -38,6 +40,4 @@ These are just some of the projects I am publicly working on. Some private proje
 | Project Name | Project Language(s) | Project License |Target Framework Version | What it does | 
 |-|-|-|-|-|
 | [ProcessExtensions](https://github.com/alastairlundy/Extensions.Processes) | C# | MPl 2.0 | .NET Standard 2.0 & .NET 8+ | Abstractions around Processes and Process running to make it easier and safer. | 
-| [SystemExtensions](https://github.com/alastairlundy/Extensions.System) | C# | MIT | .NET Standard 2.0 & .NET 8+ | Extensions to C# System classes and types to improve them. | 
-| [CollectionsExtensions](https://github.com/alastairlundy/Extensions.Collections) | C# | MIT | .NET Standard 2.0 & .NET 8+ | Extensions to C# IEnumerables, ICollections, and more to improve them. | 
 | [IOExtensions](https://github.com/alastairlundy/Extensions.IO) | C# | MPL 2.0 | .NET Standard 2.0, .NET Standard 2.1, and .NET 8 | A library to make programmatic directory deletion and creation in .NET easier. | 
