@@ -24,7 +24,8 @@ These are just some of the projects I am publicly working on. Some private proje
 | Project Name | Project Language(s) | Project License | Target Framework Version | What it does | 
 |-|-|-|-|-|
 | [BasisBox](https://github.com/alastairlundy/BasisBox/) | C# | LGPLv3 |.NET 8 | A group of alternatives to GNU coreutil programs |
-| [EnviousBox](https://github.com/EnviousBox) | C# | LGPLv3 | .NET 8 | A group of my CLI tools | 
+| [EnviousBox](https://github.com/alastairlundy/EnviousBox) | C# | LGPLv3 | .NET 8 | A group of my CLI tools | 
+| [WCount CLI](https://github.com/alastairlundy/WCount) | C# | LGPLv3 | .NET 9 | An alternative to the Unix wc program, written in C# and using .NET . |
 
 ### Libraries
 | Project Name | Project Language(s) | Project License |Target Framework Version | What it does | 
