@@ -40,5 +40,5 @@ These are just some of the projects I am publicly working on. Some private proje
 #### Extension Libraries
 | Project Name | Project Language(s) | Project License |Target Framework Version | What it does | 
 |-|-|-|-|-|
-| [ProcessExtensions](https://github.com/alastairlundy/Extensions.Processes) | C# | MPl 2.0 | .NET Standard 2.0 & .NET 8+ | Abstractions around Processes and Process running to make it easier and safer. | 
-| [IOExtensions](https://github.com/alastairlundy/Extensions.IO) | C# | MPL 2.0 | .NET Standard 2.0, .NET Standard 2.1, and .NET 8 | A library to make programmatic directory deletion and creation in .NET easier. | 
+| [Extensions.Processes](https://github.com/alastairlundy/Extensions.Processes) | C# | MPl 2.0 | .NET Standard 2.0 & .NET 8+ | Abstractions around Processes and Process running to make it easier and safer. | 
+| [Extensions.IO](https://github.com/alastairlundy/Extensions.IO) | C# | MPL 2.0 | .NET Standard 2.0, .NET Standard 2.1, and .NET 8 | A library to make programmatic directory deletion and creation in .NET easier. | 
