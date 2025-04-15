@@ -34,7 +34,6 @@ These are just some of the projects I am publicly working on. Some private proje
 | [Cli Utils Lib](https://github.com/alastairlundy/CliUtilsLib) | C# | MPL 2.0 | .NET 8 | A library to help with the creation of CLI tools and/or console applications.|
 | [DotExtensions](https://github.com/alastairlundy/DotExtensions) | C# | MIT | .NET Standard 2.0 & .NET 8+ | Extensions to C# System classes and types to improve them. | 
 | [Resyslib](https://github.com/alastairlundy/Resyslib) | C# | MIT | .NET Standard 2.0 & .NET 8+ | This is a collection of primitive packages for .NET focussed on different areas. | 
-| [OSCompatibilityLib](https://github.com/alastairlundy/OSCompatibilityLib) | C# | MIT | .NET Standard 2.0 | Extends the ``OperatingSystem`` class to make it easier to handle cross-platform code on .NET Standard 2 compatible projects |
 | [PlatformKit](https://github.com/alastairlundy/PlatformKit) | C# | MIT | .NET Standard 2.0 & .NET 6 and newer | Helps with handling Cross-platform code and detecting Platform specific things. |
 
 #### Extension Libraries
