@@ -1,6 +1,8 @@
 # README.md
 # 👋 Hi
 Hi, I'm Alastair.
+## 💼 Profession / Role
+Looking to get started as a Junior Software developer.
 
 ## 🛠️ Top Skills
 - C# .NET
