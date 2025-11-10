@@ -26,10 +26,3 @@ Looking to get started as a Junior Software developer.
 If you want/need to email me about one of my Open Source projects (such as to report a Security Vulnerability): [oss@alastair.mozmail.com](mailto:oss@alastair.mozmail.com)
 
 
-## 🌱 Currently Learning
-
-* HTML
-* CSS
-* Javascript
-
-
