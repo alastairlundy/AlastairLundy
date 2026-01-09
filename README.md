@@ -1,6 +1,7 @@
 # README.md
 # 👋 Hi
 Hi, I'm Alastair.
+
 ## 💼 Profession / Role
 Looking to get started as a Junior Software developer.
 
@@ -9,10 +10,18 @@ Looking to get started as a Junior Software developer.
 
 ## 🚀 Featured Projects
 
+### 🖥️ Featured Apps and Tools
+| Project | Description | Tech Stack |
+|-|-|-|
+| [WhatExec](https://github.com/alastairlundy/whatexec) | | C# .NET , | 
+
+### 📚 Featured Libraries
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [CliInvoke](https://github.com/alastairlundy/CliInvoke) | A library for executing external programs/processes from .NET safely. | C# .NET |
-
+| [EnhancedLinq](https://github.com/alastairlundy/EnhancedLinq) | Additional LINQ style extension methods for .NET (including Memory types)| C# .NET | 
+| [DotExtensions](https://github.com/alastairlundy/DotExtensions) | Useful extensons to C# classes and types. | C# .NET |
+| [OsReleaseNet](https://codeberg.org/alastairlundy/OsReleaseNet/) | Linux and FreeBSD OsRelease detection, and SteamOS detection for .NET programs | C# .NET |
 
 ## 📊 GitHub Stats
 
