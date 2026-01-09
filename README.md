@@ -13,7 +13,7 @@ Looking to get started as a Junior Software developer.
 ### 🖥️ Featured Apps and Tools
 | Project | Description | Tech Stack |
 |-|-|-|
-| [WhatExec](https://github.com/alastairlundy/whatexec) | | C# .NET , | 
+| [WhatExec](https://github.com/alastairlundy/whatexec) | CLI Tools and Libraries to locate executable files. | C# .NET , | 
 
 ### 📚 Featured Libraries
 | Project | Description | Tech Stack |
