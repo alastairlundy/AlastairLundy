@@ -25,8 +25,7 @@ Looking to get started as a Junior Software developer.
 
 ## 📊 GitHub Stats
 
- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alastairlundy&show_icons=true)
-
+ ![My GitHub stats](./profile/stats.svg)
 
 ## 📫 How to Reach Me
 
