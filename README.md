@@ -21,7 +21,7 @@ Looking to get started as a Junior Software developer.
 | [CliInvoke](https://github.com/alastairlundy/CliInvoke) | A library for executing external programs/processes from .NET safely. | C# .NET |
 | [EnhancedLinq](https://github.com/alastairlundy/EnhancedLinq) | Additional LINQ style extension methods for .NET (including Memory types)| C# .NET | 
 | [DotExtensions](https://github.com/alastairlundy/DotExtensions) | Useful extensons to C# classes and types. | C# .NET |
-| [OsReleaseNet](https://codeberg.org/alastairlundy/OsReleaseNet/) | Linux and FreeBSD OsRelease detection, and SteamOS detection for .NET programs | C# .NET |
+| [OsReleaseNet](https://github.com/alastairlundy/OsReleaseNet/) | Linux and FreeBSD OsRelease detection, and SteamOS detection for .NET programs | C# .NET |
 
 ## 📊 GitHub Stats
 
