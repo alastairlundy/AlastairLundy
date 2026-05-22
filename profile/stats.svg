@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Alastair Lundy's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 6351, Total PRs: 307, Total Issues: 58, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 6352, Total PRs: 307, Total Issues: 58, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 78.88242166864829;
+        stroke-dashoffset: 78.88242166603611;
       }
     }
   
@@ -159,7 +159,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="stars"
       >19</text>
@@ -174,7 +174,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Commits (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="commits"
       >6.4k</text>
@@ -189,7 +189,7 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="prs"
       >307</text>
@@ -204,7 +204,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="issues"
       >58</text>
@@ -219,7 +219,7 @@
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="contribs"
       >23</text>
