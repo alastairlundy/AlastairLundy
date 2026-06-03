@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Alastair Lundy's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 6280, Total PRs: 311, Total Issues: 62, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 6287, Total PRs: 311, Total Issues: 62, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 78.3940556626617;
+        stroke-dashoffset: 78.39405564058207;
       }
     }
   
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >23</text>
+      >22</text>
     </g>
   </g>
     </svg>
