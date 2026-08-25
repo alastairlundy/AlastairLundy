@@ -24,6 +24,13 @@ Looking to get started as a Junior Software developer.
 | [DotExtensions](https://github.com/alastairlundy/DotExtensions) | Useful extensons to C# classes and types. | C# .NET |
 | [OsReleaseNet](https://github.com/alastairlundy/OsReleaseNet/) | Linux and FreeBSD OsRelease detection, and SteamOS detection for .NET programs | C# .NET |
 
+
+### 🤖 AI Related Projects
+| Project | Description | AI/LLM powered functionality | Tech Stack |
+|---------|-------------|------------|--------|
+| [CoAttribution](https://github.com/alastairlundy/CoAttribution) | Assists with assigning git commit attribution to AI agents and Humans. | None | C# .NET, Microsoft.Extensions.AI | 
+| [ModelsDotDevSharp](https://github.com/alastairlundy/ModelsDotDevSharp) | Typed .NET wrapper library around models.dev API | None | C# .NET |
+
 ## 📊 GitHub Stats
 
  ![My GitHub stats](./profile/stats.svg)
