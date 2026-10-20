@@ -15,7 +15,7 @@ Looking to get started as a Junior Software developer.
 |-|-|-|
 | [DiffToJson](https://github.com/alastairlundy/DiffToJson) | A CLI to create JSON files from Git Commit Messages in git repos. | C# .NET | 
 | [WhatExec](https://github.com/alastairlundy/whatexec) | CLI Tools and Libraries to locate executable files. | C# .NET | 
-| [PreReleaseDelist](https://github.com/alastairlundy/PreReleaseDelist) | A CLI to delist pre-release versions from NuGet servers programatically. | C# .NET |
+| [NuVersions](https://github.com/alastairlundy/NuVersions) | A CLI to delist pre-release versions from NuGet servers. | C# .NET |
 
 ### 📚 Featured Libraries
 | Project | Description | Tech Stack |
