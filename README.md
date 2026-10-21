@@ -14,7 +14,6 @@ Looking to get started as a Junior Software developer.
 | Project | Description | Tech Stack |
 |-|-|-|
 | [DiffToJson](https://github.com/alastairlundy/DiffToJson) | A CLI to create JSON files from Git Commit Messages in git repos. | C# .NET | 
-| [WhatExec](https://github.com/alastairlundy/whatexec) | CLI Tools and Libraries to locate executable files. | C# .NET | 
 | [NuVersions](https://github.com/alastairlundy/NuVersions) | A CLI to delist pre-release versions from NuGet servers. | C# .NET |
 
 ### 📚 Featured Libraries
@@ -22,8 +21,6 @@ Looking to get started as a Junior Software developer.
 |---------|-------------|------------|
 | [CliInvoke](https://github.com/alastairlundy/CliInvoke) | A library for executing external programs/processes from .NET safely. | C# .NET |
 | [EnhancedLinq](https://github.com/alastairlundy/EnhancedLinq) | Additional LINQ style extension methods for .NET (including Memory types)| C# .NET | 
-| [DotExtensions](https://github.com/alastairlundy/DotExtensions) | Useful extensons to C# classes and types. | C# .NET |
-| [OsReleaseNet](https://github.com/alastairlundy/OsReleaseNet/) | Linux and FreeBSD OsRelease detection, and SteamOS detection for .NET programs | C# .NET |
 
 
 ### 🤖 AI Related Projects
